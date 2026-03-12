@@ -5,8 +5,8 @@
 - **Tableau** для візуалізації результатів
 
 ### Посилання
-- Джерело датасету: https://www.kaggle.com/datasets/anshika2301/hr-analytics-dataset/data
-- ipynb файл з аналізом: https://github.com/viktoriia-hrabar/hr-analytics/blob/ebf713ccd388f9788f4df2623968fbd91e7deb43/notebooks/HR_Analytics.ipynb
+- [Джерело датасету](https://www.kaggle.com/datasets/anshika2301/hr-analytics-dataset/data)
+- [ipynb файл з аналізом](https://github.com/viktoriia-hrabar/hr-analytics/blob/ebf713ccd388f9788f4df2623968fbd91e7deb43/notebooks/HR_Analytics.ipynb)
 - Tableau дешборд: 
 
 ### Опис датасету
