@@ -6,7 +6,9 @@
 
 ### Посилання
 - [Джерело датасету](https://www.kaggle.com/datasets/anshika2301/hr-analytics-dataset/data)
-- [ipynb файл з аналізом](https://github.com/viktoriia-hrabar/hr-analytics/blob/ebf713ccd388f9788f4df2623968fbd91e7deb43/notebooks/HR_Analytics.ipynb)
+- [CSV файл з оригінальним датасетом ](https://github.com/viktoriia-hrabar/hr-analytics/blob/96d5431eb892886de1017a72156e5bec93dbcb35/data/HR_Analytics_raw.csv)
+- [CSV файл з обробленим фінальним датасетом](https://github.com/viktoriia-hrabar/hr-analytics/blob/96d5431eb892886de1017a72156e5bec93dbcb35/data/Hr_Analytics_final.csv)
+- [ipynb файл з аналізом](https://github.com/viktoriia-hrabar/hr-analytics/blob/96d5431eb892886de1017a72156e5bec93dbcb35/notebooks/HR_Analytics.ipynb)
 - Tableau дешборд
 
 ### Опис датасету
