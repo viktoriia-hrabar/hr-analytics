@@ -138,7 +138,7 @@
 Я перевірила цю теорію, побудувавши лінійний графік, який показує, як змінюється середня заробітна плата зі стажем серед працівників 3-го рівня посади Sales Executive. 
 
 <p align="center">
-  <img width="693" height="437" alt="image" src="https://github.com/user-attachments/assets/0ca183d5-15b8-4282-95cc-cdd8de48ef9c" />
+  <img width="910" height="570" alt="image" src="https://github.com/user-attachments/assets/30bd0dbb-4335-4f89-a8b2-eaafb443fd02" />
 </p>
 
 Лінійний графік показує, що на позиції існує **зарплатне плато — спеціалісти не отримують вищу винагороду із ростом стажу**, що може спонукати до відтоку.
